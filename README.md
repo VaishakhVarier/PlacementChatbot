@@ -1,6 +1,8 @@
 # PlacementChatbot
 Week 3 Task of GET Analyticx Internship
-This project is a Python-based chatbot designed to assist students preparing for campus placements. It offers concise and relevant guidance on resumes, interviews, companies, and preparation strategies. The chatbot combines:
+This project is a Python-based chatbot designed to assist students preparing for campus placements. It offers concise and relevant guidance on resumes, interviews, companies, and preparation strategies. (Secret Scanning Didnt Allow API Key to be pasted. The bot is working fine from my side. Please paste an API key to test.)
+
+The chatbot combines:
 
 Keyword-based logic for instant, offline responses
 
